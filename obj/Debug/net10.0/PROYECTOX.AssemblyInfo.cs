@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PROYECTOX")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8919f7efa504b2ce48af327eb40639cd867d2680")]
 [assembly: System.Reflection.AssemblyProductAttribute("PROYECTOX")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PROYECTOX")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
